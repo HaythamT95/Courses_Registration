@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>PythonApplication2</Name>
     <RootNamespace>PythonApplication2</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
